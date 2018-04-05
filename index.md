@@ -8,6 +8,14 @@ Note that FloBot is a prototype, and not currently production ready. Interested 
 
 FloBot works by using a technique called _magic_. It's very complicated.
 
+![Systems interaction](https://team9-robotix.github.io/images/system-interaction.png)
+
+_(Magic not depicted above)_
+
+### Why did you call it FloBot?
+
+Because of [Florence Nightingale](https://en.wikipedia.org/wiki/Florence_Nightingale). She's awesome.
+
 ### Source code and documentation
 
 If you are curious to see how FloBot works behind the scenes, we encourage you to check out our code and documentation, linked below.
