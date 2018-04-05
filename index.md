@@ -12,7 +12,7 @@ FloBot works by using a technique called _magic_. It's very complicated.
 
 If you are curious to see how FloBot works behind the scenes, we encourage you to check out our code and documentation, linked below.
 
-- Vision
-- Server
-- App
-- EV3
+- [Vision](https://github.com/Team9-RobotIX/Vision)
+- [Server](https://github.com/Team9-RobotIX/AWS) ([Apiary](https://robotix.docs.apiary.io/))
+- [App](https://github.com/Team9-RobotIX/mobile-app-kt)
+- [EV3](https://github.com/Team9-RobotIX/EV3)
