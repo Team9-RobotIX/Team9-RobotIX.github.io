@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to FloBot's website
 
 You can use the [editor on GitHub](https://github.com/Team9-RobotIX/Team9-RobotIX.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
