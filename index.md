@@ -1,37 +1,18 @@
-## Welcome to FloBot's website
+FloBot is an automated delivery system made for use in hospitals but extensible to other scenarios. It uses an overhead camera to detect the relative locations of delivery robots and direct them to the appropriate delivery locations.
 
-You can use the [editor on GitHub](https://github.com/Team9-RobotIX/Team9-RobotIX.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+One of our main goals when making robot was to ensure that chain of custody was preserved when delivering. We thus designed a secure, IP65 compliant, magnetically-locked enclosure that ensures that samples and/or documents are safely delivered, without compromising on their integrity or security.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Note that FloBot is a prototype, and not currently production ready. Interested in seeing FloBot in your local hospital? [Feel free to contact us](sdp-t09@inf.ed.ac.uk).
 
-### Markdown
+### How does it work?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+FloBot works by using a technique called _magic_. It's very complicated.
 
-```markdown
-Syntax highlighted code block
+### Source code and documentation
 
-# Header 1
-## Header 2
-### Header 3
+If you are curious to see how FloBot works behind the scenes, we encourage you to check out our code and documentation, linked below.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Team9-RobotIX/Team9-RobotIX.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Vision
+- Server
+- App
+- EV3
