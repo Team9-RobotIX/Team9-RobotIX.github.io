@@ -10,7 +10,7 @@ FloBot works by using a technique called _magic_. It's very complicated.
 
 ![Systems interaction](https://team9-robotix.github.io/images/system-interaction.png)
 
-_(Magic not depicted above)_
+_(Magic not depicted in the diagram above)_
 
 ### Why did you call it FloBot?
 
