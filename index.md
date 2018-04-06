@@ -8,7 +8,7 @@ Note that FloBot is a prototype, and not currently production ready. Interested 
 
 FloBot works by using a technique called _magic_. It's very complicated.
 
-![Systems interaction](https://team9-robotix.github.io/images/system-interaction.png)
+![Systems interaction](https://team9-robotix.github.io/images/systems-interaction.png)
 
 _(Magic not depicted in the diagram above)_
 
